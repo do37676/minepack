@@ -1,0 +1,2 @@
+# minepack
+Datapack generator
