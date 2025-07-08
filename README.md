@@ -27,7 +27,7 @@ I warmly welcome contributions to this repository.
 
 If you have any questions about this project or want to share your ideas, feel free to reach out:
 
-**Email:** `yourname@example.com`
+**Email:** username3546@proton.me
 
 ---
 
